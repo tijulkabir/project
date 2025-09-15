@@ -4,21 +4,21 @@ This repository contains two of my first completed projects in C++ during my CSE
 
 🐍 Snake Game
 
-A simple Snake Game built with C++ and OpenGL.
+-> A simple Snake Game built with C++ and OpenGL.
 
-Classic gameplay with score system
+-> Classic gameplay with score system
 
-Start, pause, and game-over screen
+-> Start, pause, and game-over screen
 
 🔒 Secure Vault
 
-A secure password manager built with C++.
+-> A secure password manager built with C++.
 
-Master login system
+-> Master login system
 
-Store passwords & backup codes
+-> Store passwords & backup codes
 
-Basic encryption & decryption
+-> Basic encryption & decryption(XOR mostly)
 
 
 👨‍💻 Developed and maintained by Toha (aka Froster)
