@@ -17,14 +17,19 @@ This project allows you to store passwords, backup codes, and quick notes with b
 
 📂 Project Structure
 secure-vault/
- ├── src/         → Source files (.cpp)
+ ├── src/         → Source files (.cpp
+ 
  ├── include/     → Header files (.h/.hpp)
+ 
  ├── lib/         → Extra libraries (if any)
+ 
  ├── assets/      → Screenshots & demo GIFs
+ 
  ├── CMakeLists.txt
+ 
  ├── README.md
- ├── LICENSE
- └── .gitignore
+ 
+
 
 🛠️ Build & Run
 🔹 Linux / MacOS
